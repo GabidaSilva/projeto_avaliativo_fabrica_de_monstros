@@ -2,7 +2,7 @@
 
 Fórum Temático Disciplina Pensamento Computacional.
 Curso de Análise e Desenvolvimento de Sistemas.
-Universidade do Vale do Itajaí - UNIVALE.
+Universidade do Vale do Itajaí - UNIVALI.
 
 Atividade avaliativa da disciplina ministrada pelo Professor Ewerton Alonso.
 
